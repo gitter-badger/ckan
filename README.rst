@@ -33,3 +33,8 @@ whose full text may be found at:
 
 http://www.fsf.org/licensing/licenses/agpl-3.0.html
 
+
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/citizennerd/ckan
+   :target: https://gitter.im/citizennerd/ckan?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
